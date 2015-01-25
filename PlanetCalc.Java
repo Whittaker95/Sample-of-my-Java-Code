@@ -1,12 +1,5 @@
 # Sample-of-my-Java-Code
 This is a Sample of the Code I've written in Java. 
-
-/*
- * To change this license header, choose License Headers inProject Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package kerbal;
 
 import static java.lang.Math.sqrt;
